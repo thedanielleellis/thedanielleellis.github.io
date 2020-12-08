@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Ruby on Rails: Dance Studio App "
-date:       2020-12-08 04:51:15 +0000
+title:      "Ruby on Rails- Dance Studio App "
+date:       2020-12-07 23:51:16 -0500
 permalink:  ruby_on_rails_dance_studio_app
 ---
 
